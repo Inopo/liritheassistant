@@ -1,0 +1,29 @@
+{
+  "name": "liritheassistant",
+  "version": "1.0.0",
+  "description": "To learn node and tweet",
+  "main": "keys.js",
+  "scripts": {
+    "test": "ege"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inopo/liritheassistant.git"
+  },
+  "keywords": [
+    "learn",
+    "tweet",
+    "and",
+    "node"
+  ],
+  "author": "Ege",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Inopo/liritheassistant/issues"
+  },
+  "homepage": "https://github.com/Inopo/liritheassistant#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {}
+}
